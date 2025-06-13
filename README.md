@@ -1,1 +1,1 @@
-# WHSI-Weihai-signalized-intersection-dataset
+# WHSI-Weihai-Signalized-Intersection-Dataset
