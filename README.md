@@ -1,2 +1,2 @@
 # WHSI-Weihai-Signalized-Intersection-Dataset
-<img width="261" height="147" alt="image" src="https://github.com/user-attachments/assets/78854ccb-c52b-45af-81aa-04aae7bd6267" />
+WHSI utilized a drone (DJI Mavic-3) to capture a video of a signal-controlled intersection in Weihai, China. The video was captured at a window size of 1920×1080 and a frequency of 30Hz. The shooting took place from 3:00 pm to 5:30 pm on October 12, 2024, spanning a total of 150 minutes. The length of the intersection's lanes captured was approximately 300 meters.
