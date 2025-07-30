@@ -3,5 +3,7 @@ WHSI utilized a drone (DJI Mavic-3) to capture a video of a signal-controlled in
 ![or](https://github.com/user-attachments/assets/362031dd-d765-448c-ae29-b57179549eab)
 ![deep](https://github.com/user-attachments/assets/db3c8e2b-f2c2-45c9-920a-e7e739e26ee2)
 ![tra](https://github.com/user-attachments/assets/240d62d9-3846-4e54-a189-0784b18f7801)
-![1](https://github.com/user-attachments/assets/5596d87d-4763-4caa-99c3-47eaf2b8c6a3)
-
+![A](https://github.com/user-attachments/assets/18fb1b64-5501-4f5c-a9e5-ed7eda4397d6)
+Before trajectory smoothing
+![B](https://github.com/user-attachments/assets/6e0229f7-b68f-437c-861a-8a7c7387e578)
+After trajectory smoothing
