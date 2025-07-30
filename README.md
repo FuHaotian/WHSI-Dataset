@@ -1,4 +1,4 @@
-# WHSI-Weihai-Signalized-Intersection-Dataset
+[Tool.zip](https://github.com/user-attachments/files/21501005/Tool.zip)# WHSI-Weihai-Signalized-Intersection-Dataset
 WHSI utilized a drone (DJI Mavic-3) to capture a video of a signal-controlled intersection in Weihai, China. The video was captured at a window size of 1920×1080 and a frequency of 30Hz. The shooting took place from 3:00 pm to 5:30 pm on October 12, 2024, spanning a total of 150 minutes. The length of the intersection's lanes captured was approximately 300 meters.
 # Location Example
 ![or](https://github.com/user-attachments/assets/362031dd-d765-448c-ae29-b57179549eab)
@@ -10,3 +10,7 @@ WHSI utilized a drone (DJI Mavic-3) to capture a video of a signal-controlled in
 ![Figure_2](https://github.com/user-attachments/assets/88b4efa0-6f5d-4849-af0c-6c66860feb40)
 #  After trajectory smoothing
 ![Figure_1](https://github.com/user-attachments/assets/08c812f7-6945-404d-9cc6-8147644d705c)
+# Data Extraction Tool
+You can use the data processing tools we provide. We use YOLO-v10 for vehicle detection and BoT-SORT to track vehicles at traffic light intersections. Please note that the data tools we offer are only for your reference. If you have more advanced data processing techniques, we welcome you to share them.
+# Dataset application
+If you are interested in our dataset, you can send your application to haotianfu2001@163.com.
